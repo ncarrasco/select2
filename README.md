@@ -5,8 +5,12 @@ Select2
 Select2 is a jQuery-based replacement for select boxes. It supports searching,
 remote data sets, and pagination of results.
 
+<<<<<<< HEAD
 To get started, checkout examples and documentation at
 https://select2.github.io/
+=======
+To get started, checkout examples and documentation at http://select2.github.io/select2/
+>>>>>>> refs/remotes/origin/stable/3.5
 
 Use cases
 ---------
@@ -37,9 +41,13 @@ Select2 is automatically tested on the following browsers.
 
 Usage
 -----
+<<<<<<< HEAD
 You can source Select2 directly from a CDN like [JSDliver][jsdelivr] or
 [CDNJS][cdnjs], [download it from this GitHub repo][releases], or use one of
 the integrations below.
+=======
+You can source Select2 directly from a CDN like [jsDelivr](http://www.jsdelivr.com/#!select2) or [CDNJS](http://www.cdnjs.com/libraries/select2), [download it from this GitHub repo](https://github.com/select2/select2/tags), or use one of the integrations below.
+>>>>>>> refs/remotes/origin/stable/3.5
 
 Integrations
 ------------
@@ -61,7 +69,30 @@ Themes
 - [Flat UI][flat-ui] - [select2-flat-theme]
 - [Metro UI][metro-ui] - [select2-metro]
 
+<<<<<<< HEAD
 Missing an integration? Modify this `README` and make a pull request back here to Select2 on GitHub.
+=======
+* [Wicket-Select2](https://github.com/ivaynberg/wicket-select2) (Java / [Apache Wicket](http://wicket.apache.org))
+* [select2-rails](https://github.com/argerim/select2-rails) (Ruby on Rails)
+* [AngularUI](http://angular-ui.github.io/#ui-select) ([AngularJS](https://angularjs.org/))
+* [Django](https://github.com/applegrew/django-select2)
+* [Symfony](https://github.com/19Gerhard85/sfSelect2WidgetsPlugin)
+* [Symfony2](https://github.com/avocode/FormExtensions)
+* [Bootstrap 2](https://github.com/t0m/select2-bootstrap-css) and [Bootstrap 3](https://github.com/t0m/select2-bootstrap-css/tree/bootstrap3) (CSS skins)
+* [Meteor](https://github.com/nate-strauser/meteor-select2) (modern reactive JavaScript framework; + [Bootstrap 3 skin](https://github.com/esperadomedia/meteor-select2-bootstrap3-css/))
+* [Meteor](https://jquery-select2.meteor.com)
+* [Yii 2.x](http://demos.krajee.com/widgets#select2)
+* [Yii 1.x](https://github.com/tonybolzan/yii-select2)
+* [AtmosphereJS](https://atmospherejs.com/package/jquery-select2)
+* [EmberJS](https://github.com/iStefo/ember-select-2)
+
+### Example Integrations
+
+* [Knockout.js](https://github.com/ivaynberg/select2/wiki/Knockout.js-Integration)
+* [Socket.IO](https://github.com/ivaynberg/select2/wiki/Socket.IO-Integration)
+* [PHP](https://github.com/ivaynberg/select2/wiki/PHP-Example)
+* [.Net MVC] (https://github.com/ivaynberg/select2/wiki/.Net-MVC-Example)
+>>>>>>> refs/remotes/origin/stable/3.5
 
 Internationalization (i18n)
 ---------------------------
@@ -74,9 +105,14 @@ make a pull request back to Select2 here on GitHub.
 
 Documentation
 -------------
+<<<<<<< HEAD
 The documentation for Select2 is available
 [through GitHub Pages][documentation] and is located within this repository
 in the [`docs` folder][documentation-folder].
+=======
+
+The documentation for Select2 is available [through GitHub Pages](http://select2.github.io/select2/) and is located within this repository in the [`gh-pages` branch](https://github.com/ivaynberg/select2/tree/gh-pages).
+>>>>>>> refs/remotes/origin/stable/3.5
 
 Community
 ---------
@@ -85,6 +121,7 @@ community at the [Select2 community page][community].
 
 Copyright and license
 ---------------------
+<<<<<<< HEAD
 The license is available within the repository in the [LICENSE][license] file.
 
 [cdnjs]: http://www.cdnjs.com/libraries/select2
@@ -119,3 +156,22 @@ The license is available within the repository in the [LICENSE][license] file.
 [wicketstuff-select2]: https://github.com/wicketstuff/core/tree/master/select2-parent
 [yii2]: http://www.yiiframework.com/
 [yii2-widget-select2]: https://github.com/kartik-v/yii2-widget-select2
+=======
+
+Copyright 2015 Igor Vaynberg
+
+This software is licensed under the Apache License, Version 2.0 (the "Apache License") or the GNU
+General Public License version 2 (the "GPL License"). You may choose either license to govern your
+use of this software only upon the condition that you accept all of the terms of either the Apache
+License or the GPL License.
+
+You may obtain a copy of the Apache License and the GPL License in the LICENSE file, or at:
+
+http://www.apache.org/licenses/LICENSE-2.0
+http://www.gnu.org/licenses/gpl-2.0.html
+
+Unless required by applicable law or agreed to in writing, software distributed under the Apache License
+or the GPL License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+either express or implied. See the Apache License and the GPL License for the specific language governing
+permissions and limitations under the Apache License and the GPL License.
+>>>>>>> refs/remotes/origin/stable/3.5

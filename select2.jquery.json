@@ -11,7 +11,11 @@
         "tag",
         "tagging"
     ],
+<<<<<<< HEAD
     "version": "4.0.2-rc.1",
+=======
+    "version": "3.5.4",
+>>>>>>> refs/remotes/origin/stable/3.5
     "author": {
         "name": "Kevin Brown",
         "url": "https://github.com/kevin-brown"
